@@ -33,9 +33,6 @@ The microservice manages **Product** entities and exposes REST endpoints for pro
 
 ---
 
-
----
-
 # 🟢 Part 1 – Spring Boot Setup
 
 The project was generated using **Spring Initializr** with:
